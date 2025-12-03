@@ -1,0 +1,53 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Minimal base styles — prefer Tailwind utility classes in components */
+:root {
+  --font-sans: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: inherit;
+}
+
+h1 { font-size: 2rem; }
+
+/* Keep a tiny default button look for non-Tailwind elements */
+button {
+  font-family: inherit;
+}
+
+@media (prefers-color-scheme: light) {
+  :root { color-scheme: light; }
+}
+
+/* Fallback UI styles (apply even if Tailwind utilities aren't injected) */
+.app-sidebar {
+  background: linear-gradient(180deg,#0f1724 0%, #111827 100%);
+  color: #e5e7eb;
+}
+.app-sidebar a { color: #d1d5db; text-decoration: none }
+.app-navbar { background: rgba(17,24,39,0.6); backdrop-filter: blur(6px); border-bottom: 1px solid #111827 }
+#app-main { background: linear-gradient(180deg,#0b1220 0%, #0b0f14 100%); color: #e5e7eb; }
+
+/* Cards and inputs */
+.card, .panel { background: linear-gradient(180deg,#0f1724,#0b1220); border-radius: 8px; padding: 16px; box-shadow: 0 6px 18px rgba(2,6,23,0.6); }
+input, select, textarea { background: #0b1220; border: 1px solid #1f2937; color: #e5e7eb; padding: 8px; border-radius: 6px }
+button { background: #7c3aed; color: black; padding: 8px 12px; border-radius: 8px; border: none }
+button.secondary { background: #06b6d4 }
+
+/* Make lists readable */
+ul { list-style: none; padding: 0; }
+
