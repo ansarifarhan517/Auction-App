@@ -43,6 +43,8 @@ The CSV file names must match exactly.
 
 The column headers inside the CSV must also match exactly with what the app expects.
 
+and the csv shoudl be in public/samples folder
+
 🖼 Adding Team Logos (Important)
 ✔ Option 1: Online Image (Recommended)
 If the logo is online, simply paste the full image URL into the logo column of teams.csv.
