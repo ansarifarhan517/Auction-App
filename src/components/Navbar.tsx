@@ -25,7 +25,9 @@ export default function Navbar({ toggleSidebar }: { toggleSidebar: () => void })
 
             <img className='w-12 h-12' src={logo} alt="" />
         <div className="flex flex-col">
-          <span className={`text-lg font-semibold ${dark ? 'text-white' : 'text-gray-900'}`}>JPL Auction</span>
+          <span className={`text-lg font-semibold ${dark ? 'text-white' : 'text-gray-900'}`}>
+            
+            Jhula Premiere League (JPL) Season 3</span>
           <span className={`text-sm ${dark ? 'text-gray-400' : 'text-gray-600'}`}>Manage auctions, teams and players</span>
         </div>
       </div>
