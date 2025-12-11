@@ -1,211 +1,215 @@
 name,team,club,photo,category,basePrice
-Hasan mamu,Taiba,JMCC,https://drive.google.com/open?id=1SyNkVo7Ag01K7BHZz9l0L-S2jrU4CEoh,Batsman A,50000
-Juned,Gulshan,JMCC,https://drive.google.com/open?id=1LNVmgcc-jOgzYfL2_HkMY311PIHzScYe,All Rounder A,50000
-Rehan Ansari ,Gulshan,JMCC,https://drive.google.com/open?id=1NHghR1d0fjD1pr_sV-0Wh4hyfw6VV3Rv,All Rounder B,30000
+Hasan mamu,Taiba,JMCC,https://drive.google.com/open?id=1SyNkVo7Ag01K7BHZz9l0L-S2jrU4CEoh,Blaster,100000
+Juned,Gulshan,JMCC,https://drive.google.com/open?id=1LNVmgcc-jOgzYfL2_HkMY311PIHzScYe,Blaster,100000
+Rehan Ansari ,Gulshan,JMCC,https://drive.google.com/open?id=1NHghR1d0fjD1pr_sV-0Wh4hyfw6VV3Rv,All Rounder,80000
 Akko,Taiba,JMCC,https://drive.google.com/open?id=1lmhi-mcc0DTeNu-jcceIY6-FCBpXhEtD,Blaster,100000
-Mohammed sajid khan ,Extreme ,JMCC,https://drive.google.com/open?id=14jyOY2Goyf5lm7ih78duDly9_P_R5uUW,Batsman A,50000
-Tauseef shaikh ,Mighty Tiger,JMCC,https://drive.google.com/open?id=1ecQ0kMP2qxJ8Mb7B7aEH6Q5Q7bo3QS8j,All Rounder B,30000
+Mohammed sajid khan ,Extreme ,JMCC,https://drive.google.com/open?id=14jyOY2Goyf5lm7ih78duDly9_P_R5uUW,Batsman A,60000
+Tauseef shaikh ,Mighty Tiger,JMCC,https://drive.google.com/open?id=1ecQ0kMP2qxJ8Mb7B7aEH6Q5Q7bo3QS8j,All Rounder,80000
 Siraj,Royal Star,JMCC,https://drive.google.com/open?id=1y3W0ci5_DYyqKh-r1BMzPRc1jYyvzvmO,Category C,20000
-Alam,Taiba,JMCC,https://drive.google.com/open?id=1ViGQZh9OkQUbruZC9VFr1ARdOKOjuNMW,Bowler A,50000
-Nadir ,Galaxy,JMCC,https://drive.google.com/open?id=1pXjJRi1coeKidWCW1qF0pAfQfggYTVgF,Batsman B,30000
-Yunus mastan,Taiba,JMCC,https://drive.google.com/open?id=1Nj6tr30XDuUs7FlB9m1oOSsGo9UYhrmO,Batsman A,50000
-Rafiq,Royal Star,JMCC,https://drive.google.com/open?id=1BE8l_CbWyZSR2c0u0cJANDW_u5bHPs2k,Bowler B,30000
+Alam,Taiba,JMCC,https://drive.google.com/open?id=1ViGQZh9OkQUbruZC9VFr1ARdOKOjuNMW,Bowler ,50000
+Nadir ,Galaxy,JMCC,https://drive.google.com/open?id=1pXjJRi1coeKidWCW1qF0pAfQfggYTVgF,Batsman B,40000
+Yunus mastan,Taiba,JMCC,https://drive.google.com/open?id=1Nj6tr30XDuUs7FlB9m1oOSsGo9UYhrmO,Batsman A,60000
+Rafiq,Royal Star,JMCC,https://drive.google.com/open?id=1BE8l_CbWyZSR2c0u0cJANDW_u5bHPs2k,Bowler ,50000
 Shafique shaikh ,Taiba ,JMCC,https://drive.google.com/open?id=1y46WKovq67Kn0bfVVuBL-zueQbLb2YqI,Category C,20000
 Imran ansari,Royal Star,JMCC,https://drive.google.com/open?id=1kQRkIyQE-Eb4hsIhJ8x2NeQRika-Y4JR,Blaster,100000
 Abdul,Mighty Tiger,JMCC,https://drive.google.com/open?id=1soW1Di5XjqV6By-egpFpBcc_ilt7t4xh,Category C,20000
-Nizam ,Young 11,JMCC,https://drive.google.com/open?id=14PWI9tjGTAEdI4fQDKUm5iOZV1x676zS,Category C,20000
+Nizam ,Young 11,JMCC,https://drive.google.com/open?id=14PWI9tjGTAEdI4fQDKUm5iOZV1x676zS,All Rounder,80000
 Maya,Mighty Tiger,JMCC,https://drive.google.com/open?id=11_HKtz1I2RDvYtbjsVOzDvCApoInuakQ,Category C,20000
-Faisal,Royal Star,JMCC,https://drive.google.com/open?id=10vcmaC7TsaTVq8joLKsyohMAEWU2PDh7,Bowler A,50000
+Faisal,Royal Star,JMCC,https://drive.google.com/open?id=10vcmaC7TsaTVq8joLKsyohMAEWU2PDh7,Bowler ,50000
 Faisal,Young 11,JMCC,https://drive.google.com/open?id=1g_Wi5zLQTpyEzGfvUvl8xCKbHnQvToQ4,Category C,20000
 Shehzad,Aifa Strikers,JMCC,https://drive.google.com/open?id=15bNb1rIHzahTRkEu4fJP7XWo4Las1WxN,Category C,20000
-Azhar,Royal,JMCC,https://drive.google.com/open?id=1NJmehzuhvsCKNxjGBjNFPWnGDjOEZE4s,Bowler B,30000
-Alauddin ,Taiba,JMCC,https://drive.google.com/open?id=1WsKdzQFb3YadPLfxsY--SyRKgRJ9ub_3,Bowler A,50000
-Salman ,Mighty Tiger,JMCC,https://drive.google.com/open?id=1xQ5oYQ0Pi58BVMf-n4BqjRqdVYwznR75,Category C,20000
-Amin,Star 11,JMCC,https://drive.google.com/open?id=14b7p0uSdpPfkqFbioLSF_B8B1ZiioDvo,Batsman A,50000
+Azhar,Royal,JMCC,https://drive.google.com/open?id=1NJmehzuhvsCKNxjGBjNFPWnGDjOEZE4s,Bowler ,50000
+Alauddin ,Taiba,JMCC,https://drive.google.com/open?id=1WsKdzQFb3YadPLfxsY--SyRKgRJ9ub_3,Bowler ,50000
+Salman ,Mighty Tiger,JMCC,https://drive.google.com/open?id=1xQ5oYQ0Pi58BVMf-n4BqjRqdVYwznR75,Batsman B,40000
+Amin,Star 11,JMCC,https://drive.google.com/open?id=14b7p0uSdpPfkqFbioLSF_B8B1ZiioDvo,Batsman A,60000
 Maqsood ,11  Brothers ,JMCC,https://drive.google.com/open?id=1Xi8B-OUoEvUWiW8PmQFmABFr9jIu786q,Category C,20000
 Arfat ,Shaheen force,JMCC,https://drive.google.com/open?id=1p1Offx3QtuCouwtAX8XoGVWpvb1WGjWp,Category C,20000
-Ansari kalam ,Young 11,JMCC,https://drive.google.com/open?id=1Ypdj4qCShKS9ga-Q6JCITym07X7se6se,Category C,20000
-Bande hasan,Extreme ,JMCC,https://drive.google.com/open?id=1v2eVa083OVgaPJLyIjP1Gtq4ULHkBoLs,Category C,20000
+Ansari kalam ,Young 11,JMCC,https://drive.google.com/open?id=1Ypdj4qCShKS9ga-Q6JCITym07X7se6se,All Rounder,80000
+Bande hasan,Extreme ,JMCC,https://drive.google.com/open?id=1v2eVa083OVgaPJLyIjP1Gtq4ULHkBoLs,Bowler ,50000
 Ansari farid ,Young 11,JMCC,https://drive.google.com/open?id=1AnuGl79uPPo-TeAjGC2Mowwze53lWWpX,Category C,20000
-Yusuf manakiya,Extreme ,JMCC,https://drive.google.com/open?id=1RQRO3IS0Tm3RIieOWYbcl87p-Ejd0yf-,Batsman B,30000
+Yusuf manakiya,Extreme ,JMCC,https://drive.google.com/open?id=1RQRO3IS0Tm3RIieOWYbcl87p-Ejd0yf-,Batsman B,40000
 Ansari mubbi,Young 11,JMCC,https://drive.google.com/open?id=11vH9XZ5q49NJg8n3V9j4bpG6wFNWsz9v,Category C,20000
 Shaikh Adnan,Mighty Tiger,JMCC,https://drive.google.com/open?id=1J1OlhHzj0DjlTTTvl22ydaArdFLRVlBU,Category C,20000
 Kurban,Young 11,JMCC,https://drive.google.com/open?id=1k_jxVs4EKnth6Po9xC2HxpAp6ZTOeJs1,Category C,20000
 Adil,Star 11,JMCC,https://drive.google.com/open?id=1PHs_q2ec8Mx0UkVNKfr9W7QLdTGQdcBp,Category C,20000
 OBAID  ,Star 11,JMCC,https://drive.google.com/open?id=16d8A3DbyKKo2kGT7g389OENZWrUFQ0jj,Category C,20000
-SHEHZAD KHAN,Gulshan,JMCC,https://drive.google.com/open?id=1t2M4T5jygoPO4ApDMyoDTwSs01CZT4-3,Batsman B,30000
-FAISAL,Taiba,JMCC,https://drive.google.com/open?id=1k_NrLEkldyoK94lpoI3X0UB4nIfHWqOO,All Rounder A,50000
+SHEHZAD KHAN,Gulshan,JMCC,https://drive.google.com/open?id=1t2M4T5jygoPO4ApDMyoDTwSs01CZT4-3,Batsman A,60000
+FAISAL,Taiba,JMCC,https://drive.google.com/open?id=1k_NrLEkldyoK94lpoI3X0UB4nIfHWqOO,All Rounder,80000
 Farhad,Star 11,JMCC,https://drive.google.com/open?id=1tIFAwlGGo78NLj3XrI4KO5oEFwaQ08yi,Category C,20000
-REHMAN ,Gulshan,JMCC,https://drive.google.com/open?id=1tBI_WNeW6oJKOVWt3a-LXe46Xchl8hnc,Bowler A,50000
+REHMAN ,Gulshan,JMCC,https://drive.google.com/open?id=1tBI_WNeW6oJKOVWt3a-LXe46Xchl8hnc,Bowler ,50000
 Rizwan,Gulshan,JMCC,https://drive.google.com/open?id=1qd57vl2JUVKAPPL6SHGwa1lA-YA9jhTS,Category C,20000
 Zakir ,Taiba,JMCC,https://drive.google.com/open?id=1VRFFklkovG8Pbm3HNYNRUE44ibbqlb9n,Category C,20000
-Imran ,Star 11,JMCC,https://drive.google.com/open?id=1JgXCu4YR8MDCP5QdGxT7YMvGdx7fn0t3,Category C,20000
-Sameer Ansari ,Star 11,JMCC,https://drive.google.com/open?id=19U9Sdmevww9ChMHs0QNzLjKbBKKAh8L8,Category C,20000
+Imran ,Star 11,JMCC,https://drive.google.com/open?id=1JgXCu4YR8MDCP5QdGxT7YMvGdx7fn0t3,Bowler ,50000
+Sameer Ansari ,Star 11,JMCC,https://drive.google.com/open?id=19U9Sdmevww9ChMHs0QNzLjKbBKKAh8L8,Bowler ,50000
 Arjun,Royal star,JMCC,https://drive.google.com/open?id=1-P2WfbC_2yWa8pFOmYdBo3tXQx0IviaZ,Category C,20000
-Hashmi zahoor,Extreme ,JMCC,https://drive.google.com/open?id=1bBhqRPy-G_Z2c-Ah63gnfb_Fjxgtf-nA,Batsman B,30000
-SHAKIB,Galaxy,JMCC,https://drive.google.com/open?id=16c05Yb_J1oZIDQjj40quLR39E6icVwu_,Category C,20000
+Hashmi zahoor,Extreme ,JMCC,https://drive.google.com/open?id=1bBhqRPy-G_Z2c-Ah63gnfb_Fjxgtf-nA,Batsman B,40000
+SHAKIB,Galaxy,JMCC,https://drive.google.com/open?id=16c05Yb_J1oZIDQjj40quLR39E6icVwu_,All Rounder,80000
 Amir,Star 11,JMCC,https://drive.google.com/open?id=1-KnW2-CQgro6dlPYuD8BgB4ObHnNw0kh,Category C,20000
-IQBAL ANSARI,Star 11,JMCC,https://drive.google.com/open?id=1OFsgyprBKGi6DIegeiIwERY_PpNh2owE,Category C,20000
-Abdullah ,Star 11,JMCC,https://drive.google.com/open?id=17epSB0RX6xKbGjWgP_68hpKiUi8rORuE,Category C,20000
-Akil Ahmed ,Taiba,JMCC,https://drive.google.com/open?id=1UCzNAnb0ORz5Uj1w6T7e-1R_ZFcjSDZU,Category C,20000
+IQBAL ANSARI,Star 11,JMCC,https://drive.google.com/open?id=1OFsgyprBKGi6DIegeiIwERY_PpNh2owE,Batsman B,40000
+Abdullah ,Star 11,JMCC,https://drive.google.com/open?id=17epSB0RX6xKbGjWgP_68hpKiUi8rORuE,Batsman B,40000
+Akil Ahmed ,Taiba,JMCC,https://drive.google.com/open?id=1UCzNAnb0ORz5Uj1w6T7e-1R_ZFcjSDZU,All Rounder,80000
 Vakil,Mighty Tiger,JMCC,https://drive.google.com/open?id=1wDxVxC6cXIWFhOGGkXcAatYBtbBgEj5C,Category C,20000
-Affan ,Young 11,JMCC,https://drive.google.com/open?id=1ft08mvBvSwxyFYurmErz7nEzhM9PuOCG,Category C,20000
-Abdulla Ansari ,Young 11,JMCC,https://drive.google.com/open?id=1YKEM8Nb5IdfjuXQzIk2n5n68YXQSm7K8,Bowler A,50000
-Manna,Taiba,JMCC,https://drive.google.com/open?id=14gkqEhpVspN39y3itXBnAlThav_Zd4DL,All Rounder B,30000
+Affan ,Young 11,JMCC,https://drive.google.com/open?id=1ft08mvBvSwxyFYurmErz7nEzhM9PuOCG,All Rounder,80000
+Abdulla Ansari ,Young 11,JMCC,https://drive.google.com/open?id=1YKEM8Nb5IdfjuXQzIk2n5n68YXQSm7K8,All Rounder,80000
+Manna,Taiba,JMCC,https://drive.google.com/open?id=14gkqEhpVspN39y3itXBnAlThav_Zd4DL,All Rounder,80000
 Afzal,Aifa Strikers,JMCC,https://drive.google.com/open?id=1TI4-MKmySVSSUreO8PHRDJXLjkrlOPLV,Category C,20000
-Gulfaraz mansuri,Young Group,JMCC,https://drive.google.com/open?id=1oafD_g3shElIyZ3LY_UhOnEL4BE7Ere-,All Rounder B,30000
+Gulfaraz mansuri,Young Group,JMCC,https://drive.google.com/open?id=1oafD_g3shElIyZ3LY_UhOnEL4BE7Ere-,All Rounder,80000
 Zaid shaikh,Young Group,JMCC,https://drive.google.com/open?id=1_NRTHQq0whkYMqd7I9EHqY9XuPndfPEx,Category C,20000
-Aamir Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1TiThrVw8TIlZ1S73cSQJJn2niDyPJO_q,Category C,20000
-Mohammed Adil,Amir XI ,JMCC,https://drive.google.com/open?id=19epmUEkIQ6s18ofwqEMc7JzOtaOtYo3U,Batsman A,50000
-ANSARI ABDULMUTIB ,Success ,JMCC,https://drive.google.com/open?id=1XG0FxtLssEFDPZHDQ6JTFHJsnJN4Fhd8,Category C,20000
-Humaidkhan ,Shaheen force,JMCC,https://drive.google.com/open?id=1rRD0Kf13j5HS6_aHr-W8er_J0wQgBFBm,Bowler A,50000
-Adil Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=16vNb7HjLxCRUvIrNWYOT0JtOjZfmwZOz,Batsman B,30000
+Aamir Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1TiThrVw8TIlZ1S73cSQJJn2niDyPJO_q,Batsman B,40000
+Mohammed Adil,Amir XI ,JMCC,https://drive.google.com/open?id=19epmUEkIQ6s18ofwqEMc7JzOtaOtYo3U,Batsman A,60000
+ANSARI ABDULMUTIB ,Success ,JMCC,https://drive.google.com/open?id=1XG0FxtLssEFDPZHDQ6JTFHJsnJN4Fhd8,All Rounder,80000
+Humaidkhan ,Shaheen force,JMCC,https://drive.google.com/open?id=1rRD0Kf13j5HS6_aHr-W8er_J0wQgBFBm,Bowler ,50000
+Adil Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=16vNb7HjLxCRUvIrNWYOT0JtOjZfmwZOz,Batsman B,40000
 Mohsin Khan ,Amir XI ,JMCC,https://drive.google.com/open?id=1YQ608VIA10frwzT8Qoo3Tz1Dllj72hhn,Category C,20000
 Muzammil Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1zQJiLiXNdaEFURJejvj84IV3S8zzVrsq,Category C,20000
-Bablu,Young Group,JMCC,https://drive.google.com/open?id=1c26Sz0VTYBgVefJlBddZw9r017O9fllB,Bowler B,30000
-Sharique Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1N0lD6PYI3ENCu-5LDq63tQZLPzjquw_T,Category C,20000
+Bablu,Young Group,JMCC,https://drive.google.com/open?id=1c26Sz0VTYBgVefJlBddZw9r017O9fllB,Bowler ,50000
+Sharique Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1N0lD6PYI3ENCu-5LDq63tQZLPzjquw_T,Bowler ,50000
 Shaikh shaban,11  Brothers ,JMCC,https://drive.google.com/open?id=1fKXm7Mdmmt7QZx6r5x2D2rxtcgQcxi_G,Category C,20000
-Suhail Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=19_rDI2JXxNWmsz_o2z4p7hV112ObZ8e-,Category C,20000
-Ansari naushad,Young Group,JMCC,https://drive.google.com/open?id=15F3991OGQRGi0wq5ni7blcyAkTtO5O6t,Bowler B,30000
+Suhail Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=19_rDI2JXxNWmsz_o2z4p7hV112ObZ8e-,Batsman B,40000
+Ansari naushad,Young Group,JMCC,https://drive.google.com/open?id=15F3991OGQRGi0wq5ni7blcyAkTtO5O6t,Bowler ,50000
 Sameer Shaikh,Young Group,JMCC,https://drive.google.com/open?id=12TDBzGEBj2a7QYt5wTQi0pnq9ZwNKPRQ,Category C,20000
-Farooque,Extreme ,JMCC,https://drive.google.com/open?id=1Ofls9XCYvx0OQd6n_5R0vFID2OglK6SV,Batsman B,30000
-Raheel Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1rzLd7JZ-xmt9iK45Y1iOEq2c3Uq1tsHl,Category C,20000
-Sarfraz Khan ,Amir XI ,JMCC,https://drive.google.com/open?id=1dj5QtOs0wvm1Rft0BXhV2Vp9vFQuoZtz,Category C,20000
+Farooque,Extreme ,JMCC,https://drive.google.com/open?id=1Ofls9XCYvx0OQd6n_5R0vFID2OglK6SV,Batsman B,40000
+Raheel Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1rzLd7JZ-xmt9iK45Y1iOEq2c3Uq1tsHl,Bowler,50000
+Sarfraz Khan ,Amir XI ,JMCC,https://drive.google.com/open?id=1dj5QtOs0wvm1Rft0BXhV2Vp9vFQuoZtz,Batsman B,40000
 shaikh owais,Young Group,JMCC,https://drive.google.com/open?id=1ZOHPnrgSDYjMhbuta4jX_-iNtwQQVkrY,Category C,20000
 Ballu ,Young Group,JMCC,https://drive.google.com/open?id=1csRk8kMJ3ZWNy7sKAgnrQ4bm8kVHKBWR,Category C,20000
 Shaikh mohd ,Young Group,JMCC,https://drive.google.com/open?id=1NDF_OwLAjOjRUr_FYceK6LXcsh_9nIZU,Category C,20000
-Salman shaikh,Young Group,JMCC,https://drive.google.com/open?id=1QfcaZKkaPUDF0qiO_qnkOPEIoEdGOR-N,All Rounder B,30000
-RAJ PATEL,Shaheen force,JMCC,https://drive.google.com/open?id=1jX4giPf3kN1824fF5MgPR8-7b5QR9Azc,Category C,20000
-Shaikh ismail ,Young Group,JMCC,https://drive.google.com/open?id=19wItYHIR0SzVU7lNWdbmadmHAMtcNlAK,All Rounder A,50000
+Salman shaikh,Young Group,JMCC,https://drive.google.com/open?id=1QfcaZKkaPUDF0qiO_qnkOPEIoEdGOR-N,All Rounder,80000
+RAJ PATEL,Shaheen force,JMCC,https://drive.google.com/open?id=1jX4giPf3kN1824fF5MgPR8-7b5QR9Azc,All Rounder,80000
+Shaikh ismail ,Young Group,JMCC,https://drive.google.com/open?id=19wItYHIR0SzVU7lNWdbmadmHAMtcNlAK,All Rounder,80000
 Aqib ,Aashiyana ,JMCC,https://drive.google.com/open?id=1TP1qgOavZRB2QDFzC2covaFMmmITKrKc,Category C,20000
-Nadeem,Aashiyana ,JMCC,https://drive.google.com/open?id=1f36GkcYpdlSvGu_pkIGjfF4jovfp19eu,Category C,20000
+Nadeem,Aashiyana ,JMCC,https://drive.google.com/open?id=1f36GkcYpdlSvGu_pkIGjfF4jovfp19eu,Batsman B,40000
 Imran,Aashiyana ,JMCC,https://drive.google.com/open?id=1eeW0DjMJY73t9SV98eNulWJGBzZM4-WM,Category C,20000
 Saleem,Aashiyana ,JMCC,https://drive.google.com/open?id=11xK-WrSQu47YiWhUCzLWVrlc8LEN0NJK,Category C,20000
 Arsalan,Aashiyana ,JMCC,https://drive.google.com/open?id=19VM6vbfiKmOn0XExjaStJJWEtajIs-Fi,Category C,20000
-Ashvin Dubey,Young Group,JMCC,https://drive.google.com/open?id=11ucVUUjenTUjbiCKjCr8wmJC50-p16LM,Category C,20000
+Ashvin Dubey,Young Group,JMCC,https://drive.google.com/open?id=11ucVUUjenTUjbiCKjCr8wmJC50-p16LM,All Rounder,80000
 Asim ,Aashiyana ,JMCC,https://drive.google.com/open?id=1wLvTiHx7Jx9FFZ_6apsxLSraBqQYmnl4,Category C,20000
-ZUBAIR SHAIKH ,Young Group,JMCC,https://drive.google.com/open?id=1lyGPxRyvyBpaPxOaqqNfNOXs17EZknne,Batsman B,30000
+ZUBAIR SHAIKH ,Young Group,JMCC,https://drive.google.com/open?id=1lyGPxRyvyBpaPxOaqqNfNOXs17EZknne,Batsman B,40000
 Talha Ansari,Success ,JMCC,https://drive.google.com/open?id=1mjSRBJ3mpbFm_0Q1g7RftMtiak78lYrm,Category C,20000
-Danish Babu,Success ,JMCC,https://drive.google.com/open?id=1LGf7QCW4gEknHX3LjXmDPoeK5S1b4IaS,Batsman B,30000
+Danish Babu,Success ,JMCC,https://drive.google.com/open?id=1LGf7QCW4gEknHX3LjXmDPoeK5S1b4IaS,Batsman B,40000
 Arbaz ,Mighty Tiger,JMCC,https://drive.google.com/open?id=1FRpeiCYOrmb_ibe2xSowlLgY8szz4Frh,Category C,20000
 Shoaib shaikh,Young Group,JMCC,https://drive.google.com/open?id=1lk4KGlIs_GAWUlLnsn6Ielas1RDR0f1q,Blaster,100000
 Rafiq Ansari ,Extreme ,JMCC,https://drive.google.com/open?id=1b8c6qpWFtiU1d5wj44jTmQTbVN3GxXB_,Category C,20000
 Altaf,Shaheen force,JMCC,https://drive.google.com/open?id=1GM4-JG5hU50g4bnDPe0gkP8gFnI9JNIc,Category C,20000
 Altaf shaikh,Young Group,JMCC,https://drive.google.com/open?id=1vObLPr_7AIVftEIctpzk0fjwmN19xnlO,Category C,20000
-Hashim Qureshi,Extreme ,JMCC,https://drive.google.com/open?id=1pojxW0rgPtSuJlL_ADzqTqY5Vv29KIUn,Category C,20000
-Umar,Aashiyana,JMCC,https://drive.google.com/open?id=1326SCaUSFGkm9CAOfVyAiFcTjwFIx5hy,All Rounder B,30000
+Hashim Qureshi,Extreme ,JMCC,https://drive.google.com/open?id=1pojxW0rgPtSuJlL_ADzqTqY5Vv29KIUn,All Rounder,80000
+Umar,Aashiyana,JMCC,https://drive.google.com/open?id=1326SCaUSFGkm9CAOfVyAiFcTjwFIx5hy,Batsman B,40000
 Danish,Mighty Tiger,JMCC,https://drive.google.com/open?id=1SsblY9lYQ1kUly4gIAHz4LkQM2dx7EiZ,Category C,20000
-Akbar Shaikh,Young Group,JMCC,https://drive.google.com/open?id=1qXaW_pj-YUh9YW01qVZLh2bDp32ma5q6,All Rounder A,50000
+Akbar Shaikh,Young Group,JMCC,https://drive.google.com/open?id=1qXaW_pj-YUh9YW01qVZLh2bDp32ma5q6,All Rounder,80000
 Uzair Ansari,Success ,JMCC,https://drive.google.com/open?id=1Zt2ob1sTLNs8LbDX-8pIvJMdfdtQGM5Q,Category C,20000
-Mahtab,Extreme ,JMCC,https://drive.google.com/open?id=1NdtVCR1UNcMjUcCfoS_gBcBYyg2owLwB,Bowler A,50000
-Arshad,Extreme ,JMCC,https://drive.google.com/open?id=1TrqRAJF6NgDBU884K6_QtziDoA944Nha,Category C,20000
-Mohammed Akram ,Royal star,JMCC,https://drive.google.com/open?id=1GGBoFhVjV14SBhGo3yfnqXSzq9TcyLv8,Bowler B,30000
-IMTIYAZ SHAIKH,Extreme ,JMCC,https://drive.google.com/open?id=1fdk5UjswVVuPXzWhVx7ZOkLOZMQJCSVQ,Category C,20000
-Abdul,Shaheen force,JMCC,https://drive.google.com/open?id=1CsKPw4ubkIzM-mjSS-NXwa-Ec3-WloPc,Bowler B,30000
-Anwar khan,Extreme ,JMCC,https://drive.google.com/open?id=1TOhKGi1gv5xPZglILqqijvGg2yiZ98iG,Category C,20000
+Mahtab,Extreme ,JMCC,https://drive.google.com/open?id=1NdtVCR1UNcMjUcCfoS_gBcBYyg2owLwB,Bowler ,50000
+Arshad,Extreme ,JMCC,https://drive.google.com/open?id=1TrqRAJF6NgDBU884K6_QtziDoA944Nha,All Rounder,80000
+Mohammed Akram ,Royal star,JMCC,https://drive.google.com/open?id=1GGBoFhVjV14SBhGo3yfnqXSzq9TcyLv8,Bowler ,50000
+IMTIYAZ SHAIKH,Extreme ,JMCC,https://drive.google.com/open?id=1fdk5UjswVVuPXzWhVx7ZOkLOZMQJCSVQ,Batsman B,40000
+Abdul,Shaheen force,JMCC,https://drive.google.com/open?id=1CsKPw4ubkIzM-mjSS-NXwa-Ec3-WloPc,Bowler ,50000
+Anwar khan,Eram,JMCC,https://drive.google.com/open?id=1TOhKGi1gv5xPZglILqqijvGg2yiZ98iG,All Rounder,80000
 Imran,Shaheen force,JMCC,https://drive.google.com/open?id=1oGTIW1IPNO_AfYXvKldjNnm77ezohzqs,Category C,20000
 Sarwar,Extreme ,JMCC,https://drive.google.com/open?id=1xrmiBHQUuIrgkCATzue7rUlKy80fYP1Q,Category C,20000
-Zahir,Shaheen force,JMCC,https://drive.google.com/open?id=1Xm1cGSD08TovdmNDTSYxl_XRDvLedfMi,All Rounder B,30000
+Zahir,Shaheen force,JMCC,https://drive.google.com/open?id=1Xm1cGSD08TovdmNDTSYxl_XRDvLedfMi,Category C,20000
 Wasim,Al Habib,JMCC,https://drive.google.com/open?id=1UTrqB75AnYrkuauUNbuW14QrY3VLpsdJ,Category C,20000
 Naif,Shaheen force,JMCC,https://drive.google.com/open?id=1kQ9opWock0Zz-nBHfVRmChnG9zIDOOHE,Category C,20000
-NAVED,Gulshan,JMCC,https://drive.google.com/open?id=1B8XjyiHa1KHM8HWiPv5fMTuuDhc8gQdu,All Rounder A,50000
+NAVED,Gulshan,JMCC,https://drive.google.com/open?id=1B8XjyiHa1KHM8HWiPv5fMTuuDhc8gQdu,All Rounder,80000
 Ijaz,Hasan XI,JMCC,https://drive.google.com/open?id=1PubYGqvUgi1IV2grAxIzcB8Qlk7ND4MZ,Category C,20000
-Sufiyan,Taiba,JMCC,https://drive.google.com/open?id=11DLvSGILz0nU79QsQeDFsDC0XT9h47VI,Category C,20000
-Ahsan ,Shaheen force,JMCC,https://drive.google.com/open?id=1qY89nWlH5Bl3y4sFqzPPZKPu5KmPNQYv,Category C,20000
+Sufiyan,Taiba,JMCC,https://drive.google.com/open?id=11DLvSGILz0nU79QsQeDFsDC0XT9h47VI,Bowler,50000
+Ahsan ,Shaheen force,JMCC,https://drive.google.com/open?id=1qY89nWlH5Bl3y4sFqzPPZKPu5KmPNQYv,Batsman B,40000
 Faiz,Shaheen force,JMCC,https://drive.google.com/open?id=1Ew5AMcKFb3TFbEccExpPSjJRjQGaYBOO,Category C,20000
 Naeem,Taiba,JMCC,https://drive.google.com/open?id=1VCD94_NQn7e0yYl8zKMJTSjvCivi8gQN,Category C,20000
 Shehbaz,Taiba,JMCC,https://drive.google.com/open?id=1ErJxxJEHsdq33NzXzL8YcW1Bx-IgRzGb,Category C,20000
-Tauseef khan,Extreme ,JMCC,https://drive.google.com/open?id=1AQwFL0FRrFdT5Y65ld3L9S91HNdsHIzn,All Rounder A,50000
-Shahbaaz,Extreme ,JMCC,https://drive.google.com/open?id=1yg6UAFZ1PTNjCcuTYJ6w_6Pj3GagLhAO,Category C,20000
-Juned,Extreme ,JMCC,https://drive.google.com/open?id=1vWHmgRLnlzG8DZrg7BlouNec2SxzjpSR,Batsman B,30000
+Tauseef khan,Extreme ,JMCC,https://drive.google.com/open?id=1AQwFL0FRrFdT5Y65ld3L9S91HNdsHIzn,All Rounder,80000
+Shahbaaz,Extreme ,JMCC,https://drive.google.com/open?id=1yg6UAFZ1PTNjCcuTYJ6w_6Pj3GagLhAO,All Rounder,80000
+Juned,Extreme ,JMCC,https://drive.google.com/open?id=1vWHmgRLnlzG8DZrg7BlouNec2SxzjpSR,Batsman B,40000
 Riyaz ( rajwa ),Gulshan,JMCC,https://drive.google.com/open?id=1j6-pWATuFjduzsV-8u4KaA3rxhf4CaqD,Category C,20000
-Ansari shakeel ,Success ,JMCC,https://drive.google.com/open?id=10xjJhL1vRkyy4w-JESOYS8_CRIFZ5pY1,Batsman B,30000
-Anzar shaikh,11  Brothers ,JMCC,https://drive.google.com/open?id=1mcdHVVT9ZsQDSPbB6nK8cfvVK7FVOLQE,Bowler B,30000
-MAJID,11  Brothers ,JMCC,https://drive.google.com/open?id=15ac5Gi7VLMEHcAB5tUT49gimJFKTNSRK,Batsman B,30000
-Mangla,11  Brothers ,JMCC,https://drive.google.com/open?id=1u5O9NON27n6veBnxRuGLUmChhc72Amfh,Batsman B,30000
+Ansari shakeel ,Success ,JMCC,https://drive.google.com/open?id=10xjJhL1vRkyy4w-JESOYS8_CRIFZ5pY1,Batsman B,40000
+Anzar shaikh,11  Brothers ,JMCC,https://drive.google.com/open?id=1mcdHVVT9ZsQDSPbB6nK8cfvVK7FVOLQE,Bowler ,50000
+MAJID,11  Brothers ,JMCC,https://drive.google.com/open?id=15ac5Gi7VLMEHcAB5tUT49gimJFKTNSRK,Batsman B,40000
+Mangla,11  Brothers ,JMCC,https://drive.google.com/open?id=1u5O9NON27n6veBnxRuGLUmChhc72Amfh,Batsman B,40000
 Altamash shaikh ,11  Brothers ,JMCC,https://drive.google.com/open?id=1OBlGo1_zkb4W_GhdggODJohz-TaCrB_W,Category C,20000
-Shaheneel Ahmed Shaikh,Shaheen Force,JMCC,https://drive.google.com/open?id=1yBds8LGBOF_2kUrUTk1BIToN3s-CU8hO,Category C,20000
-Tarik,11  Brothers ,JMCC,https://drive.google.com/open?id=1CHavSmON10-y1LDEpAm0m2pDzGkKxWD5,Batsman A,50000
+Shaheneel Ahmed Shaikh,Shaheen Force,JMCC,https://drive.google.com/open?id=1yBds8LGBOF_2kUrUTk1BIToN3s-CU8hO,All Rounder,80000
+Tarik,11  Brothers ,JMCC,https://drive.google.com/open?id=1CHavSmON10-y1LDEpAm0m2pDzGkKxWD5,Batsman A,60000
 ANAS ANSARI ,Gulshan,JMCC,https://drive.google.com/open?id=1-xKsGTiW0mNm_CbILWt_vVbAFqvb_jrk,Blaster,100000
 Sarfaraz ,11  Brothers ,JMCC,https://drive.google.com/open?id=1h6RIoL-Sr8WFC2uOsRgog-YJta7TXjAQ,Category C,20000
 IMRAN LOLA,Star 11,JMCC,https://drive.google.com/open?id=1u9bvrYodPhj3zZwfWq8Y7a6ejGJ379I3,Category C,20000
-Mehraj,11  Brothers ,JMCC,https://drive.google.com/open?id=1FPPgwMgeW7vctV30MZSSKsPQjihy-YxY,Category C,20000
+Mehraj,11  Brothers ,JMCC,https://drive.google.com/open?id=1FPPgwMgeW7vctV30MZSSKsPQjihy-YxY,Batsman B,40000
 Majid,11  Brothers ,JMCC,https://drive.google.com/open?id=1Cm26Iq0rmjUcXPrmZt0wZaJHgon-ysLY,Category C,20000
 Md shabbir,11  Brothers ,JMCC,https://drive.google.com/open?id=1WoG7N16stkp17RfySKdHAiDin6xQcTtN,Category C,20000
-Sarfaraz ,Mighty tiger,JMCC,https://drive.google.com/open?id=1kPjUbcK1ULTSdSgPe4gPZVhrmIcio8bT,Category C,20000
-Zaid dasadia,Young Group,JMCC,https://drive.google.com/open?id=1UHRFEaO3OmwhAdgpH_Bl9BQDrPTWAR7p,All Rounder B,30000
+Sarfaraz ,Mighty tiger,JMCC,https://drive.google.com/open?id=1kPjUbcK1ULTSdSgPe4gPZVhrmIcio8bT,Batsman B,40000
+Zaid dasadia,Young Group,JMCC,https://drive.google.com/open?id=1UHRFEaO3OmwhAdgpH_Bl9BQDrPTWAR7p,All Rounder,80000
 Hamza,Royal,JMCC,https://drive.google.com/open?id=1ibRdEM6phBrhrMrNajqxaaLUqWes04Fa,Category C,20000
-Akil,Taiba,JMCC,https://drive.google.com/open?id=1hLYZABCF2clA0wWmxRtQzoCb3kBaPEtA,Batsman B,30000
-MACHA,Royal,JMCC,https://drive.google.com/open?id=1hOYt51klKBg-vKrhthgThJylOMlZl-Sp,Batsman B,30000
-Yasar ,Mighty tiger,JMCC,https://drive.google.com/open?id=1MnMbr68QFeCFFHeTE5enzE2U-pRGjjGW,Batsman B,30000
-Kalwa,Mighty tiger,JMCC,https://drive.google.com/open?id=1GBXdsDRulMQm6peUBgeNEJ9ifY711OPF,Category C,20000
+Akil,Taiba,JMCC,https://drive.google.com/open?id=1hLYZABCF2clA0wWmxRtQzoCb3kBaPEtA,Batsman A,60000
+MACHA,Royal,JMCC,https://drive.google.com/open?id=1hOYt51klKBg-vKrhthgThJylOMlZl-Sp,Category C,20000
+Yasar ,Mighty tiger,JMCC,https://drive.google.com/open?id=1MnMbr68QFeCFFHeTE5enzE2U-pRGjjGW,Batsman B,40000
+Kalwa,Mighty tiger,JMCC,https://drive.google.com/open?id=1GBXdsDRulMQm6peUBgeNEJ9ifY711OPF,Bowler,50000
 Maaz ,11  Brothers ,JMCC,https://drive.google.com/open?id=1HJEohahaok4Tbl5Olji5cUP8pX3-7F-_,Category C,20000
-Juned,Shaheen force,JMCC,https://drive.google.com/open?id=1wcwKgpgijufqBYLcX9qIav4G3OE7NAVl,Bowler B,30000
-Aditya Dubey ,Extreme ,JMCC,https://drive.google.com/open?id=16HaZ23sttdGFwKH3GagqD9Ua7K1j4aY7,Category C,20000
+Juned,Shaheen force,JMCC,https://drive.google.com/open?id=1wcwKgpgijufqBYLcX9qIav4G3OE7NAVl,Bowler ,50000
+Aditya Dubey ,Extreme ,JMCC,https://drive.google.com/open?id=16HaZ23sttdGFwKH3GagqD9Ua7K1j4aY7,Bowler ,50000
 Aamir ,Royal star,JMCC,https://drive.google.com/open?id=1-xYztC24VL4iXwUVD29vmXie2Tu1SH4L,Category C,20000
 Yusuf shaikh ,11  Brothers ,JMCC,https://drive.google.com/open?id=1K-pIBN9j1FcnB5kYWGG4gTlPSaeG09CK,Category C,20000
-Danish,Deluxe,JMCC,https://drive.google.com/open?id=1NGf2tk-fyvVBLIg_PPAv9e9tBk411Joe,All Rounder B,30000
-Irfan,Shaheen force,JMCC,https://drive.google.com/open?id=1tVQFeBX7wYktPOFKgtV32dLV3kGpmcLY,Batsman B,30000
-SAEED ,Royal Star,JMCC,https://drive.google.com/open?id=1sBmOlLf4-_SADwKNNRSkvztD61hkYtfT,Batsman A,50000
+Danish,Galaxy,JMCC,https://drive.google.com/open?id=1NGf2tk-fyvVBLIg_PPAv9e9tBk411Joe,All Rounder,80000
+Irfan,Shaheen force,JMCC,https://drive.google.com/open?id=1tVQFeBX7wYktPOFKgtV32dLV3kGpmcLY,Batsman B,40000
+SAEED ,Royal Star,JMCC,https://drive.google.com/open?id=1sBmOlLf4-_SADwKNNRSkvztD61hkYtfT,Batsman A,60000
 Jamal,Galaxy,JMCC,https://drive.google.com/open?id=1BdSFQewH3MU5W2ajXsnU39Jso4Qs1qA-,Category C,20000
-Sayed ali,Galaxy,JMCC,https://drive.google.com/open?id=1rg5aW6LDHJ9VNFsBBgrrGURNx1PctM1L,Category C,20000
+Sayed ali,Galaxy,JMCC,https://drive.google.com/open?id=1rg5aW6LDHJ9VNFsBBgrrGURNx1PctM1L,Bowler,50000
 Asif,Aashiyana,JMCC,https://drive.google.com/open?id=1yRrnjLwwbZe-g2FxUF-U5jIw3J4wCOE8,Category C,20000
 Dawood,Galaxy,JMCC,https://drive.google.com/open?id=1a-TqZWpQfnQ_YyPVUIKESmcw1lCSiheZ,Category C,20000
 Sk. Raj,Galaxy,JMCC,https://drive.google.com/open?id=174BWzz7MCB-YOoLnURQ87wOhUbHCtUbh,Category C,20000
-Shahrukh ,Galaxy,JMCC,https://drive.google.com/open?id=11QMRmqlQ4vcqLl6p6lzzUn-NUyxrB1a9,Bowler B,30000
+Shahrukh ,Galaxy,JMCC,https://drive.google.com/open?id=11QMRmqlQ4vcqLl6p6lzzUn-NUyxrB1a9,Bowler ,50000
 Mehfooz,Galaxy,JMCC,https://drive.google.com/open?id=1TMnVrB-9uwmdy5-RPLvA1ftpQ5spIl5p,Category C,20000
 Sohail,Aashiyana,JMCC,https://drive.google.com/open?id=1aFaT_FrerwSWQUDXv1lQ8r7_xeLY3K6N,Category C,20000
-Farooque ansari,Azam 11,JMCC,https://drive.google.com/open?id=1IYuVCDB5fXjbyTGWM7q2LNVTqBbTqcyN,Bowler A,50000
+Farooque ansari,Azam 11,JMCC,https://drive.google.com/open?id=1IYuVCDB5fXjbyTGWM7q2LNVTqBbTqcyN,Bowler ,50000
 Adil hashmi,Extreme ,JMCC,https://drive.google.com/open?id=1XQy3G-8Adjybc41n8jZzK7KumnnxnIUR,Category C,20000
-Ayaz Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1e6lWxRJuwah9gR1TIP-1T2aFDm5leOyG,Category C,20000
-Shazan,Royal star,JMCC,https://drive.google.com/open?id=15eaTPmxdi0ozMK-ZIfflgQ6vqOkQEycO,Batsman B,30000
-Uzair Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1FKQ3Q3DmRRNvx-tDaleVcWS3VEgDb4Rf,All Rounder B,30000
-Ashraf Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=19Zt-mI4XkQi9VVsZyP62LOutitK8VZKk,Category C,20000
+Ayaz Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1e6lWxRJuwah9gR1TIP-1T2aFDm5leOyG,Bowler,50000
+Shazan,Royal star,JMCC,https://drive.google.com/open?id=15eaTPmxdi0ozMK-ZIfflgQ6vqOkQEycO,Batsman B,40000
+Uzair Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1FKQ3Q3DmRRNvx-tDaleVcWS3VEgDb4Rf,All Rounder,80000
+Ashraf Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=19Zt-mI4XkQi9VVsZyP62LOutitK8VZKk,All Rounder,80000
 Hamza Ansari,Amir XI ,JMCC,https://drive.google.com/open?id=1DOW261zzj4yIqT6jK20Lsus2qHaoL05Q,Category C,20000
 Mohammed Ummi,Amir XI ,JMCC,https://drive.google.com/open?id=1NA80KF9rS-d5miWOHC8u0AWMPy27AtSl,Category C,20000
-Nadir khan,Gulshan,JMCC,https://drive.google.com/open?id=1AM1V0k43i4RPYxPPyLoSAn7C_npHTeoV,Batsman B,30000
+Nadir khan,Gulshan,JMCC,https://drive.google.com/open?id=1AM1V0k43i4RPYxPPyLoSAn7C_npHTeoV,Batsman B,40000
 Irfan chhote,Aifa Strikers,JMCC,https://drive.google.com/open?id=1BdY7RIRCKvic2Oq9Lev0WOsI3pKNFHuz,Category C,20000
 Ali shaikh,Young Group,JMCC,https://drive.google.com/open?id=1A4hjZSQclZ9XbN8SERE83ulxWOoGFIBJ,Blaster,100000
 TALIM ,11  Brothers ,JMCC,https://drive.google.com/open?id=1qtLXYJWyBlX2LS-D95YXdHP0FFw8OztU,Category C,20000
 Asif ,Gulshan,JMCC,https://drive.google.com/open?id=1OkS9FLzG2IwOZcOJDMqIJM1waVAIkuiL,Blaster,100000
-Sohail,Royal Star,JMCC,https://drive.google.com/open?id=1k-Ii4ya5379IlPQBvdQ9V6HFQ8jNYyD1,Bowler A,50000
-Sajid,Royal,JMCC,https://drive.google.com/open?id=15LIwcHH7L5zKR0SwoaCG4Ymxib1JlpBB,Batsman A,50000
-Tarique,Taiba,JMCC,https://drive.google.com/open?id=1MzMmOofXTQJuDlDNDMgKYGZwb_61bNuY,Category C,20000
-Zaheer,Eram,JMCC,https://drive.google.com/open?id=1UOUN2LnFFFhr8mwRCYCCL_jfpZsR903u,Batsman B,30000
-Abdullah,Success ,JMCC,https://drive.google.com/open?id=1rftZ5u8w-zqiYKDvQdIn8y-0vrAykOwm,Bowler A,50000
-Wasim boss,Royal,JMCC,https://drive.google.com/open?id=1QAHP6lRdB3rk7OeDi5Y9AeLW2Sbc2lKQ,Batsman B,30000
-Golden,Eram,JMCC,https://drive.google.com/open?id=1TmQk2vaOocneYD4DgoEn-bK6Z4G3WsGP,Category C,20000
-Waqar Lala,Royal,JMCC,https://drive.google.com/open?id=1O2S0FUnlkcDfPRyQDBURPQK9Sb1CDzce,Batsman A,50000
-Hasan Mamu,Taiba,JMCC,https://drive.google.com/open?id=1SyNkVo7Ag01K7BHZz9l0L-S2jrU4CEoh,Batsman A,50000
-Moin ,Royal,JMCC,https://drive.google.com/open?id=1MkAeEDWQSh2OviL4S3Y1kYkFx9rHUddG,Batsman A,50000
+Sohail,Royal Star,JMCC,https://drive.google.com/open?id=1k-Ii4ya5379IlPQBvdQ9V6HFQ8jNYyD1,Bowler ,50000
+Sajid,Royal,JMCC,https://drive.google.com/open?id=15LIwcHH7L5zKR0SwoaCG4Ymxib1JlpBB,Batsman A,60000
+Tarique,Taiba,JMCC,https://drive.google.com/open?id=1MzMmOofXTQJuDlDNDMgKYGZwb_61bNuY,Bowler ,50000
+Zaheer,Eram,JMCC,https://drive.google.com/open?id=1UOUN2LnFFFhr8mwRCYCCL_jfpZsR903u,All Rounder,80000
+Abdullah,Success ,JMCC,https://drive.google.com/open?id=1rftZ5u8w-zqiYKDvQdIn8y-0vrAykOwm,Bowler ,50000
+Wasim boss,Royal,JMCC,https://drive.google.com/open?id=1QAHP6lRdB3rk7OeDi5Y9AeLW2Sbc2lKQ,Batsman B,40000
+Golden,Eram,JMCC,https://drive.google.com/open?id=1TmQk2vaOocneYD4DgoEn-bK6Z4G3WsGP,Batsman B,40000
+Waqar Lala,Royal,JMCC,https://drive.google.com/open?id=1O2S0FUnlkcDfPRyQDBURPQK9Sb1CDzce,Batsman B,40000
+Moin ,Royal,JMCC,https://drive.google.com/open?id=1MkAeEDWQSh2OviL4S3Y1kYkFx9rHUddG,Batsman A,60000
 Atif ,Khookhar,JMCC,https://drive.google.com/open?id=1j24e3rgzw5RHqosCnwH7OQcMhQWKhjMl,Category C,20000
 Small ballu,11  Brothers ,JMCC,https://drive.google.com/open?id=11aFmCJiWdDXOqo9LrSOUsNV9YF4T3rSj,Category C,20000
-Adnan ,Gulshan,JMCC,https://drive.google.com/open?id=1f_K_vTOoBJcWr-guUMznOIG3XuCVlI5b,All Rounder A,50000
-Ubaid cheena,Taiba,JMCC,https://drive.google.com/open?id=13oT9pS8GghaLqcO6BUhRJ9z2Df8FFmVQ,Bowler A,50000
-Nasir ,SHOT CC,JMCC,https://drive.google.com/open?id=1sr2aMGkztwXO_i6A0SHPsNvpVoeaqOYc,Stars Of YMCA,30000
-Ata Shaikh,Goodluck ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1KOxkM5CGC97WaxLBpeSiZEbtuGIO8UKu,Blaster,100000
-Hammad Ansari,Success,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1jThAimQQA5pqd60boMM2YKiay7V4TUsn,Stars Of YMCA,30000
-Faaz ansari,Success,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1N2PJNlYsAiUdh0cEA-bnSDJBAXDO_LDq,Stars Of YMCA,30000
-SITARE MANSURI,SUFI CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1MsE6_iwSnUyKUFOCNoGlxaU7ZCSI9uHw,Stars Of YMCA,30000
-AsadAli Ansari ,BKC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1n6WiQbFW7ntKZ3u3NxmBsecx_oPfyeMs,Stars Of YMCA,30000
-Saifullah Ansari ,BKC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1FODnz_gBRO2-EL__3eXX3i9HndsQFWk0,Stars Of YMCA,30000
-Arbaz,Little star ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1bF4rcpYoMEGZtl9FPvoG0jtbLvJxHiaG,Stars Of YMCA,30000
-Rafique mansoori ,SUFI CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1c1peo8ho_EOYiADErnFm_PxGDvaxCrTX,Stars Of YMCA,30000
-Amit yadav,Team MD,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1TiIBUmEhGEXU8I5TWIu6LJiHotfQgWON,Stars Of YMCA,30000
-Arfat shaikh,Team MD,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1MBarL0i7L_YINPNydcQAoujaKKMx_SGM,Stars Of YMCA,30000
-Shaikh yusuf ,Team MD,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1tKKNZl2uMF9Ay5t6I7F40AsTV5LHcWOo,Stars Of YMCA,30000
-Rehan Ansari ,Little star ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1Ti58_lU5qYOK9EreREdqC5oc0Qjwa8I3,Stars Of YMCA,30000
-Ibrahim ansari,Amir 11 ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=18qJNDEY5h1ckMNR8jWv9bXBEMkFwI3bw,Stars Of YMCA,30000
-Bilal Ansari,SHOT CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1KflzcbuUr_SKgtB9VwzNyS89KVFVNm3H,Stars Of YMCA,30000
-Mustafa afzal ,Goodluck ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1fkFVSaxtaHGomYzXVlxWJ3SOxheLoVnn,Stars Of YMCA,30000
-Ansari Hamdaan ,SHOT CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1SvNYzMMF5FoFrdH0JHvmG_yquP-hhFpe,Stars Of YMCA,30000
-ANSARI MOHAMMED MOIZ,AMR 11,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=19K5L3osX5y0E0KvTyhQmZ9mYui8MmdhU,Stars Of YMCA,30000
-Shahid ,Short ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1Q1_1faWk6y4xmYfitF7uOIP4T2JkBJ8g,Stars Of YMCA,30000
-Araaf Ansari ,Team Alfa,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1rHKw7QmWFWZev-Nb9wwOiNGU2DwohjLh,Stars Of YMCA,30000
-Aqib,Amir 11,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=117LohbopZKIlB-6JMj22WRleL0H_uHkL,Stars Of YMCA,30000
-Rizwan,Mamsa,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1V6pV8FJr8XDqnepYp58I5MZ0knHp2geI,Stars Of YMCA,30000
+Adnan ,Gulshan,JMCC,https://drive.google.com/open?id=1f_K_vTOoBJcWr-guUMznOIG3XuCVlI5b,All Rounder,80000
+Ubaid cheena,Taiba,JMCC,https://drive.google.com/open?id=13oT9pS8GghaLqcO6BUhRJ9z2Df8FFmVQ,Bowler ,50000
+Arbaz Lalla,Wiser,JMCC,https://drive.google.com/open?id=1MO439y0MPFvEoJEaEJKm8aHWaQzG0KOj,Category C,20000
+Nasir ,SHOT CC,JMCC,https://drive.google.com/open?id=1sr2aMGkztwXO_i6A0SHPsNvpVoeaqOYc,Stars Of YMCA,40000
+Ata Shaikh,Goodluck ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1KOxkM5CGC97WaxLBpeSiZEbtuGIO8UKu,Stars Of YMCA,40000
+Hammad Ansari,Success,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1jThAimQQA5pqd60boMM2YKiay7V4TUsn,Stars Of YMCA,40000
+Faaz ansari,Success,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1N2PJNlYsAiUdh0cEA-bnSDJBAXDO_LDq,Stars Of YMCA,40000
+SITARE MANSURI,SUFI CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1MsE6_iwSnUyKUFOCNoGlxaU7ZCSI9uHw,Stars Of YMCA,40000
+AsadAli Ansari ,BKC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1n6WiQbFW7ntKZ3u3NxmBsecx_oPfyeMs,Stars Of YMCA,40000
+Saifullah Ansari ,BKC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1FODnz_gBRO2-EL__3eXX3i9HndsQFWk0,Stars Of YMCA,40000
+Arbaz,Little star ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1bF4rcpYoMEGZtl9FPvoG0jtbLvJxHiaG,Stars Of YMCA,40000
+Rafique mansoori ,SUFI CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1c1peo8ho_EOYiADErnFm_PxGDvaxCrTX,Stars Of YMCA,40000
+Amit yadav,Team MD,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1TiIBUmEhGEXU8I5TWIu6LJiHotfQgWON,Stars Of YMCA,40000
+Arfat shaikh,Team MD,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1MBarL0i7L_YINPNydcQAoujaKKMx_SGM,Stars Of YMCA,40000
+Shaikh yusuf ,Team MD,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1tKKNZl2uMF9Ay5t6I7F40AsTV5LHcWOo,Stars Of YMCA,40000
+Rehan Ansari ,Little star ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1Ti58_lU5qYOK9EreREdqC5oc0Qjwa8I3,Stars Of YMCA,40000
+Ibrahim ansari,Amir 11 ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=18qJNDEY5h1ckMNR8jWv9bXBEMkFwI3bw,Stars Of YMCA,40000
+Bilal Ansari,SHOT CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1KflzcbuUr_SKgtB9VwzNyS89KVFVNm3H,Stars Of YMCA,40000
+Mustafa afzal ,Goodluck ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1fkFVSaxtaHGomYzXVlxWJ3SOxheLoVnn,Stars Of YMCA,40000
+Ansari Hamdaan ,SHOT CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1SvNYzMMF5FoFrdH0JHvmG_yquP-hhFpe,Stars Of YMCA,40000
+ANSARI MOHAMMED MOIZ,AMR 11,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=19K5L3osX5y0E0KvTyhQmZ9mYui8MmdhU,Stars Of YMCA,40000
+Shahid ,Short ,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1Q1_1faWk6y4xmYfitF7uOIP4T2JkBJ8g,Stars Of YMCA,40000
+Araaf Ansari ,Team Alfa,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1rHKw7QmWFWZev-Nb9wwOiNGU2DwohjLh,Stars Of YMCA,40000
+Aqib,Amir 11,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=117LohbopZKIlB-6JMj22WRleL0H_uHkL,Stars Of YMCA,40000
+Rizwan,Mamsa,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1V6pV8FJr8XDqnepYp58I5MZ0knHp2geI,Stars Of YMCA,40000
 Ubaid khan ,Azim CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1L4IL5iWE84Fp4IneoMYWMkuDwRxU34H_,Blaster,100000
 Tabish ,Azim CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1-clWbS1yXxYUWo570MwNgBRqk5jKXKi5,Blaster,100000
-Sameer ,Famous,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1_FWIdR1SzMdc-2j3yGS8LLjm_ksYyKgZ,Stars Of YMCA,30000
-Saalim,Famous,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1ckeuD4HMI7ESOf3VBkSXCQGxM_BTQMxl,Stars Of YMCA,30000
-Asad Sayed,SHOT CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1YFKg_-50KLYh_8lhXZDhXHQEEAqkHKkd,Stars Of YMCA,30000
+Sameer ,Famous,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1_FWIdR1SzMdc-2j3yGS8LLjm_ksYyKgZ,Stars Of YMCA,40000
+Saalim,Famous,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1ckeuD4HMI7ESOf3VBkSXCQGxM_BTQMxl,Stars Of YMCA,40000
+Asad Sayed,SHOT CC,YMCA,https://drive.google.com/u/1/open?usp=forms_web&id=1YFKg_-50KLYh_8lhXZDhXHQEEAqkHKkd,Stars Of YMCA,40000
+Faisal Ansari,Azim CC,YMCA,https://drive.google.com/open?id=1pVb3xxC5SVYMlLYg_ncYmIlMrp5ZJ8rF,Stars Of YMCA,40000
+Danish mirza,Azim CC,YMCA,https://drive.google.com/open?id=1xDg1WzotPqBy0W1u4X2MZIZXIXmVhSlW,Stars Of YMCA,40000
+Ashfaque,Game.cc ,YMCA,https://drive.google.com/open?id=1QICm9lsfc-1wUdUkCYSsz4cvWnyaYXdd,Stars Of YMCA,40000
+Afaque,Game cc,YMCA,https://drive.google.com/open?id=1NVdXAmH-IpufCF8p4a489YOXDyBkNMC_,Stars Of YMCA,40000
