@@ -244,7 +244,7 @@ export default function Dashboard() {
               {players.map((p) => (
                 <li key={p.id} className="flex items-center gap-3">
                   <img
-                    src={getLocalImageUrl(p.photo)}
+                    src={getLocalImageUrl(p.photo ? p.photo : '')}
                     alt={p.name}
                     className={`${dark ? 'bg-gray-700' : 'bg-gray-200'} w-10 h-10 rounded object-cover`}
                   />

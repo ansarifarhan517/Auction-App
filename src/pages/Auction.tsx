@@ -56,7 +56,7 @@ function PlayerCard({ player, bid, onBid, incOptions, increase, setIncrease, tea
         >
             <div className="relative w-full h-100 mx-auto">
                 <img
-                    src={getLocalImageUrl(player.photo)}
+                    src={getLocalImageUrl(player.photo ? player.photo : '')}
                     alt={player.name}
                     className="w-full h-full object-contain p-2 rounded-full transition-all duration-300"
                 />
@@ -144,7 +144,7 @@ export function TeamListHorizontal({ players, teams, dark }: { players: Player[]
 
             </div>
 
-            <style jsx>{`
+            <style>{`
                 .animate-marquee {
                     display: inline-block;
                     padding-left: 100%;

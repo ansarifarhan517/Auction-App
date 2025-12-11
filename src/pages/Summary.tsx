@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { loadStore } from '../utils/storage'
 import { useAppSelector } from '../store/hooks'
-import type { Team, Player } from '../types'
+import type { Player } from '../types'
 import { getLocalImageUrl } from './Auction'
 
 export default function Summary() {
@@ -96,7 +96,7 @@ const exportCSV = () => {
           {players.map(p => (
             <div key={p.id} className={`${dark ? 'bg-gray-700' : 'bg-gray-100'} flex items-center gap-3 p-2 rounded`}>
               <img
-                src={getLocalImageUrl(p.photo)}
+                src={getLocalImageUrl(p.photo ? p.photo : '')}
                 alt={p.name}
                 onError={(e) => {
                   const img = e.currentTarget as HTMLImageElement
