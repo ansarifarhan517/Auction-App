@@ -42,6 +42,15 @@ async function doSeed() {
     .map((s) => s.trim())
     .filter(Boolean)
 
+  // Fisher-Yates shuffle
+  function shuffle<T>(arr: T[]) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[arr[i], arr[j]] = [arr[j], arr[i]]
+    }
+    return arr
+  }
+
   const makePlayer = (r: any): Player => ({
     id: uuid(),
     name: (r.name || r.player || '').trim(),
@@ -54,7 +63,8 @@ async function doSeed() {
     soldPrice: null,
   })
 
-  const players: Player[] = [...playersRaw].map(makePlayer)
+  // shuffle the raw CSV records, then map to Player objects
+  const players: Player[] = shuffle([...playersRaw]).map(makePlayer)
 
   // write to store
   saveStore({ teams, players, categories })
